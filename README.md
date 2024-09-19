@@ -1,4 +1,4 @@
-## Salut! Moi c'est Fred!
+# Salut! Moi c'est Fred!
 
  -Étudiant en Techniques d'Intégration Multimédia au Cégep Edouard-MontPetit.
 
@@ -8,7 +8,7 @@
 - 👯 Je suis ouvert à apprendre d'autres langages/framework/librairies.
 - 📫 Comment me rejoindre: admin@fredericlagace.ca
 
-**Outils et langages:**
+## **Outils et langages:**
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,)](https://skillicons.dev)
 [![My softwares](https://skillicons.dev/icons?i=ae,blender,figma,github,ai,vscode,webstorm,)](https://skillicons.dev)
