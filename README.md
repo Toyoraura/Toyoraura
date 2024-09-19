@@ -1,10 +1,17 @@
-## Hi there 👋
+## Salut! Moi c'est Fred!
 
-<!--
-**Toyoraura/Toyoraura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Étudiant en Techniques d'Intégration Multimédia au Cégep Edouard-MontPetit.
 
-Here are some ideas to get you started:
+## Je travail présentement sur mon portfolio professionnel, axé principalement sur le développement et l'intégration web.
+## J'apprend présentement davantage de JavaScript ainsi que React.
+## Je suis ouvert à apprendre d'autres langages/framework/librairies.
+##
 
+
+
+**Outils et langages:**
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
