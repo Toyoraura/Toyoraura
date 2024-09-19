@@ -7,11 +7,12 @@
  -J'apprend présentement davantage de JavaScript ainsi que React.
  ##
  -Je suis ouvert à apprendre d'autres langages/framework/librairies.
+ -Comment me rejoindre: admin@fredericlagace.ca
 
 
 
 
-                                 **Outils et langages:**
+**Outils et langages:**
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 - 🔭 I’m currently working on ...
