@@ -12,10 +12,10 @@
 ## **Outils et langages:**
 
 ### Mes langages:
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,)](https://skillicons.dev)
 
 ### Mes logiciels:
-[![My softwares](https://skillicons.dev/icons?i=ae,blender,figma,github,ai,vscode,webstorm,)](https://skillicons.dev)
+[![My softwares](https://skillicons.dev/icons?i=ae,ai,blender,figma,github,vscode,webstorm,)](https://skillicons.dev)
 
 ### Mes autres outils:
 [![What I use](https://skillicons.dev/icons?i=discord,gmail,linkedin,netlify,nodejs,npm,)](https://skillicons.dev)
