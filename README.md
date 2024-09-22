@@ -7,7 +7,7 @@
 - 🌱 J'apprends à temps perdus davantage sur JavaScript ainsi que React.
 - :computer: Je suis ouvert à apprendre d'autres langages/frameworks/librairies.
 - :art: Je suis interressé par le design et le montage vidéo.
-- 📫 Comment me rejoindre: admin@fredericlagace.ca
+- 📫 Comment me rejoindre: contact@fredericlagace.ca
 
 ## **Outils et langages:**
 
