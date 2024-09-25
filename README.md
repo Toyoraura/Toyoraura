@@ -20,4 +20,3 @@
 ### Ce que j'utilise:
 [![What I use](https://skillicons.dev/icons?i=discord,gmail,linkedin,netlify,nodejs,npm,wordpress,)](https://skillicons.dev)
 
--->
