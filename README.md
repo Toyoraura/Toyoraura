@@ -4,7 +4,7 @@
 
  
 - 🔭 Je travail présentement sur mon portfolio professionnel, axé principalement sur le développement et l'intégration web.
-- 🌱 J'apprends à temps perdus davantage sur JavaScript ainsi que React.
+- 🌱 J'apprends à temps perdus davantage sur JavaScript ainsi que les autres librairies.
 - :computer: Je suis ouvert à apprendre d'autres langages/frameworks/librairies.
 - :art: Je suis interessé par le design et le montage vidéo.
 - 📫 Comment me rejoindre: contact@fredericlagace.ca
