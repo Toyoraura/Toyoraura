@@ -6,7 +6,7 @@
 - 🌱 J'apprends à temps perdus davantage sur JavaScript ainsi que les autres librairies.
 - :computer: Je suis ouvert à apprendre d'autres langages/frameworks/librairies.
 - :art: Je suis également interessé par le design et le montage vidéo.
-- 📫 Comment me rejoindre: contact@fredericlagace.ca
+- 📫 Comment me rejoindre: f.lagace17@gmail.com
 
 ## **Outils et langages:**
 
