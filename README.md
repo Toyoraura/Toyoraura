@@ -1,6 +1,6 @@
 # Salut! Moi c'est Fred!
 
- Étudiant en Techniques d'Intégration Multimédia au Cégep Edouard-Montpetit.
+Développeur front-end et designer UX/UI.
 
  
 - 🌱 J'apprends à temps perdus davantage sur JavaScript ainsi que les autres librairies.
