@@ -1,12 +1,4 @@
-# Salut! Moi c'est Fred!
-
-Développeur front-end et designer UX/UI.
-
- 
-- 🌱 J'apprends à temps perdus davantage sur JavaScript ainsi que les autres librairies.
-- :computer: Je suis ouvert à apprendre d'autres langages/frameworks/librairies.
-- :art: Je suis également interessé par le design et le montage vidéo.
-- 📫 Comment me rejoindre: f.lagace17@gmail.com
+# Développeur front-end et designer UX/UI.
 
 ## **Outils et langages:**
 
